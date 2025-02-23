@@ -58,7 +58,7 @@ Running Tests
 
 This application is thoroughly tested using Cypress. To run tests:
 
-npm run test
+npx cypress open 
 
 This command will launch the Cypress test suite, where you can view and run component and end-to-end tests.
 
