@@ -1,0 +1,19 @@
+[
+    {
+      "question": "What is React?",
+      "answers": [
+        { "text": "A JavaScript library", "isCorrect": true },
+        { "text": "A CSS framework", "isCorrect": false },
+        { "text": "A database", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does JSX stand for?",
+      "answers": [
+        { "text": "JavaScript XML", "isCorrect": true },
+        { "text": "JSON XML", "isCorrect": false },
+        { "text": "Java XML", "isCorrect": false }
+      ]
+    }
+  ]
+  
